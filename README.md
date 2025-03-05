@@ -9,6 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 **🏗️ Data Architecture **
 
+
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 
 
@@ -76,6 +77,7 @@ For more details, refer to docs/requirements.md.
 **📂 Repository Structure**
 
 data-warehouse-project/
+
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
